@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp", "MovieApp\MovieApp.csproj", "{13271435-1928-4094-BA73-1F37706AB5E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Entity", "MovieApp.Entity\MovieApp.Entity.csproj", "{B14BE349-9753-4669-A125-BBCF6310CCA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Domain", "MovieApp.Domain\MovieApp.Domain.csproj", "{0EC36643-303A-4CE2-8C25-D6654FC6E96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13271435-1928-4094-BA73-1F37706AB5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13271435-1928-4094-BA73-1F37706AB5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13271435-1928-4094-BA73-1F37706AB5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13271435-1928-4094-BA73-1F37706AB5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14BE349-9753-4669-A125-BBCF6310CCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14BE349-9753-4669-A125-BBCF6310CCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14BE349-9753-4669-A125-BBCF6310CCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14BE349-9753-4669-A125-BBCF6310CCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC36643-303A-4CE2-8C25-D6654FC6E96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC36643-303A-4CE2-8C25-D6654FC6E96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC36643-303A-4CE2-8C25-D6654FC6E96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC36643-303A-4CE2-8C25-D6654FC6E96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0596B11-F866-438D-AE17-2F009952C030}
+	EndGlobalSection
+EndGlobal
